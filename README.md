@@ -17,16 +17,17 @@ This project aims to build a simple Stock Exchange system using C++. It primaril
 - Place limit orders in the order book
 - Cancel and modify orders
 - Match orders using price-time priority queue
+- UI to simulate orders being placed on a single stock
 
 ## Future Features
 
-- UI to interact with the stock exchange
+- Real user interaction with the UI along with multi-threaded support for stock exchange
 - Ability to view and configure charts corresponding to stocks
 - Addition of other order types such as market order and stop loss order.
 
 ## Technologies Used
 
 - C++
-- GTK4 (for future UI)
+- wxWidgets for UI
 - Git (for version control)
 - Visual Studio
