@@ -19,6 +19,8 @@ This project aims to build a simple Stock Exchange system using C++. It primaril
 - Match orders using price-time priority queue
 - UI to simulate orders being placed on a single stock
 
+![stock_chart](https://github.com/user-attachments/assets/56220baf-29dd-4f9b-bfed-1e33bb6cbbba)
+
 ## Future Features
 
 - Real user interaction with the UI along with multi-threaded support for stock exchange
