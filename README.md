@@ -20,6 +20,7 @@ This project aims to build a simple Stock Exchange system using C++. It primaril
 - UI to simulate orders being placed on a single stock
 
 ![stock_chart](https://github.com/user-attachments/assets/56220baf-29dd-4f9b-bfed-1e33bb6cbbba)
+https://github.com/user-attachments/assets/ac5b0df7-f76a-4fe6-a1f9-d153f73d0d12
 
 ## Future Features
 
