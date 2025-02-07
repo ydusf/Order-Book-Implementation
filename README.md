@@ -14,7 +14,7 @@ This project aims to build a simple Stock Exchange system using C++. It primaril
 ## Current Features
 
 - Create and manage accounts
-- Place limit orders in the order book
+- Place limit and market orders in the order book
 - Cancel and modify orders
 - Match orders using price-time priority queue
 - UI to simulate orders being placed on a single stock
@@ -25,7 +25,8 @@ This project aims to build a simple Stock Exchange system using C++. It primaril
 
 - Real user interaction with the UI along with multi-threaded support for stock exchange
 - Ability to view and configure charts corresponding to stocks
-- Addition of other order types such as market order and stop loss order.
+- Addition of other order types such as stop loss order.
+- Implementation of Trading Strategies to facilitate experimental practise
 
 ## Technologies Used
 
